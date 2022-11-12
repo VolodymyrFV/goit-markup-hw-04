@@ -82,7 +82,7 @@ section {
 }
 
 .header-border {
-  max-width: 1600px;
+  /*max-width: 1600px;*/
   margin-left: auto;
   margin-right: auto;
   border-bottom: 2px solid var(--bcg-color-gray);
